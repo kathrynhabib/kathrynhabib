@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Kathryn 👋
+I'm a junior at Vassar College studying Computer Science. 
+
+## Skills
+Languages: Java, Python, HTML
 
 <!--
 **kathrynhabib/kathrynhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
